@@ -1,8 +1,16 @@
 {
   "versionCode": 2,
   "versionName": "1.1",
-  "title": "تحديث جديد متاح",
-  "message": "تم إصدار نسخة جديدة من التطبيق!\n\nأهم التغييرات:\n• تحسينات عامة في الأداء والاستقرار.\n• إصلاح المشاكل السابقة.\n\nيرجى تحميل النسخة الجديدة للمتابعة.",
   "downloadUrl": "https://example.com/your-app-update.apk",
-  "forceUpdate": true
-}   
+  "forceUpdate": true,
+  "title": {
+    "ar": "تحديث جديد متاح",
+    "en": "New Update Available",
+    "zh": "发现新版本"
+  },
+  "message": {
+    "ar": "تم إصدار نسخة جديدة من التطبيق!\n\nأهم التغييرات:\n• تحسينات عامة في الأداء والاستقرار.\n• إصلاح المشاكل السابقة.\n\nيرجى تحميل النسخة الجديدة للمتابعة.",
+    "en": "A new version of the app is available!\n\nWhat's new:\n• General performance and stability improvements.\n• Bug fixes from previous release.\n\nPlease update to continue.",
+    "zh": "应用有新版本可用！\n\n更新内容：\n• 提升整体稳定性和运行性能。\n• 修复已知问题。\n\n请更新到最新版本以继续使用。"
+  }
+}
