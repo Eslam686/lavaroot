@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "title": "تحديث جديد متاح",
+  "message": "تم إصدار نسخة جديدة من التطبيق!\n\nأهم التغييرات:\n• تحسينات عامة في الأداء والاستقرار.\n• إصلاح المشاكل السابقة.\n\nيرجى تحميل النسخة الجديدة للمتابعة.",
+  "downloadUrl": "https://example.com/your-app-update.apk",
+  "forceUpdate": true
+}   
