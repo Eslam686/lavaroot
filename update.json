@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 3,
+  "versionName": "1.2",
   "downloadUrl": "https://github.com/Eslam686/lavaroot/raw/refs/heads/main/app-debug-latest.apk",
   "forceUpdate": true,
   "title": {
@@ -9,8 +9,8 @@
     "zh": "发现新版本"
   },
   "message": {
-    "ar": "تم إصدار نسخة جديدة من التطبيق!\n\nأهم التغييرات:\n• تحسينات عامة في الأداء والاستقرار.\n• إصلاح المشاكل السابقة.\n\nيرجى تحميل النسخة الجديدة للمتابعة.",
-    "en": "A new version of the app is available!\n\nWhat's new:\n• General performance and stability improvements.\n• Bug fixes from previous release.\n\nPlease update to continue.",
-    "zh": "应用有新版本可用！\n\n更新内容：\n• 提升整体稳定性和运行性能。\n• 修复已知问题。\n\n请更新到最新版本以继续使用。"
+    "ar": "تم تحديث التطبيق إلى الإصدار 4.7!",
+    "en": "The app has been updated to version 4.7!",
+    "zh": "应用已更新至 4.7 版本！"
   }
 }
